@@ -2,7 +2,7 @@
 
 ## Chris Kempson's base 16#flat theme for hyperterm.
 
-![hyperterm-base16-flat](https://cldup.com/lmnYCBQP6a.png)
+![hyperterm-base16-flat](https://cldup.com/_648uAXUT5.png)
 
 ## Install
 ```
