@@ -1,7 +1,7 @@
 {
   "name": "hyperterm-base16-flat",
   "version": "1.0.0",
-  "description": "Chris Kempson's base 16#flat theme for hyperterm",
+  "description": "Base 16#flat theme for hyperterm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
