@@ -1,0 +1,29 @@
+{
+  "name": "hyperterm-base16-flat",
+  "version": "1.0.0",
+  "description": "Chris Kempson's base 16#flat theme for hyperterm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alextrastero/hyperterm-base16-flat"
+  },
+  "keywords": [
+    "hyperterm",
+    "theme",
+    "base16",
+    "flat"
+  ],
+  "author": "Alexander Odell (https://github.com/alextrastero)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alextrastero/hyperterm-base16-flat/issues"
+  },
+  "homepage": "https://github.com/alextrastero/hyperterm-base16-flat#readme",
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-google": "^0.6.0"
+  }
+}
