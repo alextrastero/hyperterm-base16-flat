@@ -8,22 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alextrastero/hyperterm-base16-flat"
+    "url": "git+https://github.com/alextrastero/hyperterm-base16-flat.git"
   },
   "keywords": [
     "hyperterm",
-    "theme",
     "base16",
-    "flat"
+    "flat",
+    "theme"
   ],
   "author": "Alexander Odell (https://github.com/alextrastero)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alextrastero/hyperterm-base16-flat/issues"
   },
-  "homepage": "https://github.com/alextrastero/hyperterm-base16-flat#readme",
-  "devDependencies": {
-    "eslint": "^3.1.1",
-    "eslint-config-google": "^0.6.0"
-  }
+  "homepage": "https://github.com/alextrastero/hyperterm-base16-flat#readme"
 }
